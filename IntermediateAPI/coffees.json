@@ -1,0 +1,45 @@
+{
+  "Coffees": [
+    // Please create five instances of Coffees based on the Coffee class.
+    {
+      "Id": "00112233-4455-6677-8899-aabbccddeeff",
+      "Name": "Espresso",
+      "Characteristic": "Rich and Intense",
+      "Strength": "Strong",
+      "Cost": 2.50,
+      "ImageUrl": "https://example.com/espresso.jpg"
+    },
+    {
+      "Id": "11223344-5566-7788-8899-aabbccddeeff",
+      "Name": "Latte",
+      "Characteristic": "Creamy and Smooth",
+      "Strength": "Medium",
+      "Cost": 3.00,
+      "ImageUrl": "https://example.com/latte.jpg"
+    },
+    {
+      "Id": "22334455-6677-8899-aabb-ccddeeffgg11",
+      "Name": "Cappuccino",
+      "Characteristic": "Foamy and Velvety",
+      "Strength": "Medium",
+      "Cost": 3.20,
+      "ImageUrl": "https://example.com/cappuccino.jpg"
+    },
+    {
+      "Id": "33445566-7788-99aa-bbcc-ddeeffgghh22",
+      "Name": "Americano",
+      "Characteristic": "Rich and Bold",
+      "Strength": "Mild",
+      "Cost": 2.80,
+      "ImageUrl": "https://example.com/americano.jpg"
+    },
+    {
+      "Id": "44556677-8899-aabb-ccdd-eeffgghhii33",
+      "Name": "Mocha",
+      "Characteristic": "Chocolatey and Sweet",
+      "Strength": "Medium",
+      "Cost": 3.50,
+      "ImageUrl": "https://example.com/mocha.jpg"
+    }
+  ]
+}
